@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Upris/Desktop/Nuova%20cartella%20%283%29/IAContinu/mlruns/0/models/m-96742596f1be463fae634cf05740950f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 3.1.0
+model_id: m-96742596f1be463fae634cf05740950f
+model_size_bytes: 821
+model_uuid: m-96742596f1be463fae634cf05740950f
+prompts: null
+run_id: 9bb56bd3c9864818b75c621f44b6c1b7
+utc_time_created: '2025-06-20 12:01:14.050504'

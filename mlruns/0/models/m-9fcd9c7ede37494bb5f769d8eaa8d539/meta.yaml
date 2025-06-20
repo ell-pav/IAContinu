@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Upris/Desktop/Nuova%20cartella%20%283%29/IAContinu/mlruns/0/models/m-9fcd9c7ede37494bb5f769d8eaa8d539/artifacts
+creation_timestamp: 1750420863916
+experiment_id: '0'
+last_updated_timestamp: 1750420873851
+model_id: m-9fcd9c7ede37494bb5f769d8eaa8d539
+model_type: null
+name: logreg_model
+source_run_id: 61125aea1b4e47f18798bf8ce66933f7
+status: 2
+status_message: null
